@@ -29,7 +29,6 @@ namespace Desafio2
         {
             Calculadora miCalculadora = new Calculadora();
 
-            // Ejemplos de uso de los métodos
             int resultadoSuma = miCalculadora.Sumar(10, 5);
             int resultadoResta = miCalculadora.Restar(10, 5);
             int resultadoMultiplicacion = miCalculadora.Multiplicar(10, 5);
